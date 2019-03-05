@@ -1,5 +1,5 @@
 # Numpy Example
 
-## Interoduction
+## Introduction
 
 Numpy 
